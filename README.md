@@ -1,2 +1,2 @@
 # Scientific_papers_implementation
-This repo is for personal use where I will try to add very general implementation of a newly published scientific paper in the filed of NLP particularly and ML generally.
+This repository is intended for personal use, where I aim to implement general solutions based on newly published scientific papers in the field of Natural Language Processing (NLP) and, more broadly, Machine Learning (ML).
