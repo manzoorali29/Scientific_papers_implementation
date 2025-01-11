@@ -4,3 +4,6 @@ The repository's structure will consist of separate directories for each paper, 
 The idea will be to implement Scholar recommended papers related to relation extraction:
 
 Paper 01: https://www.sciencedirect.com/science/article/pii/S0957417424032457
+Summary:
+
+
