@@ -5,5 +5,7 @@ The idea will be to implement Scholar recommended papers related to relation ext
 
 Paper 01: https://www.sciencedirect.com/science/article/pii/S0957417424032457
 Summary:
+Paper 02: https://www.computer.org/csdl/journal/tp/5555/01/10836885/23oDMA2qRAA
+Summary:
 
 
