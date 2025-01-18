@@ -7,7 +7,7 @@ The idea will be to implement Scholar recommended papers related to relation ext
 
 [GeoSMIE](https://www.sciencedirect.com/science/article/pii/S0957417424032457)
 
-A document-level event extraction framework for extracting Spatial Morphological Information (SMI) from geological texts. It treats SMI extraction as an event extraction task, filling predefined SMI record tables. The framework incorporates a no-trigger-word annotation strategy to handle cases where explicit morphological triggers are absent. Additionally, dual graph neural networks are employed to capture both local and global contextual dependencies within documents. By leveraging pre-trained RoBERTa for text representation and constructing heterogeneous graphs to model interactions, GeoSMIE effectively extracts descriptive and digital SMIs
+A document-level event extraction framework for extracting Spatial Morphological Information (SMI) from geological texts. It treats SMI extraction as an event extraction task, filling predefined SMI record tables. The framework incorporates a no-trigger-word annotation strategy to handle cases where explicit morphological triggers are absent. Additionally, dual graph neural networks are employed to capture both local and global contextual dependencies within documents. By leveraging pre-trained RoBERTa for text representation and constructing heterogeneous graphs to model interactions, GeoSMIE effectively extracts descriptive and digital SMIs. (Event extraction)
 
 ---
 Paper 02: https://www.computer.org/csdl/journal/tp/5555/01/10836885/23oDMA2qRAA
